@@ -22,9 +22,6 @@
  [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/company/vacuumm/mycompany/)
  [![My Skills](https://skillicons.dev/icons?i=github)](https://github.com/VacuumORG)
   
-  <a href="https://discord.gg/vacuum">
-    <img src="https://invidget.switchblade.xyz/vacuum">
-</a>
 
 
 
