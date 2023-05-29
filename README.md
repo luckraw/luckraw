@@ -12,7 +12,7 @@
 
 # Languages and tools 
   
-  [![My Skills](https://skillicons.dev/icons?i=java,spring,hibernate,maven,gradle,mysql,ruby,rails,rust,js,ts,html,css,docker,git)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=java,spring,hibernate,maven,gradle,mysql,python,c,cpp,ruby,rails,rust,js,docker,git)](https://skillicons.dev)
 
   # Socials
   
