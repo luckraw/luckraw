@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=8b25be&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Lucas;Seja+bem-vindo!+:%29)](https://git.io/typing-svg)
 
 > Olá, meu nome é Lucas e sou um desenvolvedor back-end apaixonado por tecnologia, cybersecurity e IA.
-- Tenho conhecimento com as linguagens de programação `Java`, `Python`, `Ruby` e `C++`.
+- Tenho conhecimento com as linguagens de programação `Java`, `Python` e `C++`.
 - Também sou Líder Geral na comunidade Vacuum, que é uma comunidade focada em ajudar desenvolvedores. 
 
 <div align="center">  
@@ -12,7 +12,7 @@
 
 # Languages and tools 
   
-  [![My Skills](https://skillicons.dev/icons?i=java,spring,hibernate,maven,gradle,mysql,python,c,cpp,ruby,rails,rust,js,docker,git)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=java,spring,hibernate,maven,gradle,mysql,python,c,cpp,js,docker,git)](https://skillicons.dev)
 
   # Socials
   
