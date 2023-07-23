@@ -4,7 +4,7 @@
 
 > Olá, meu nome é Lucas e sou um desenvolvedor back-end apaixonado por tecnologia, cybersecurity e IA.
 - Tenho conhecimento com as linguagens de programação `Java`, `Python` e `C++`.
-- Também sou Líder Geral na comunidade Vacuum, que é uma comunidade focada em ajudar desenvolvedores. 
+
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=luckraw&show_icons=true&count_private=true&hide_border=true&title_color=8b25be&icon_color=8b25be&text_color=c9d1d9&bg_color=0d1117" alt="Lucas github stats" /> 
