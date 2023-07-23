@@ -18,11 +18,7 @@
   
   [![My Skills](https://skillicons.dev/icons?i=twitter,discord,linkedin)](https://skillicons.dev)
 
- # Vacuum
- [![My Skills](https://skillicons.dev/icons?i=twitter)](https://twitter.com/VacuumORG) 
- [![My Skills](https://skillicons.dev/icons?i=discord)](https://discord.gg/vacuum)
- [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/company/vacuumm/mycompany/)
- [![My Skills](https://skillicons.dev/icons?i=github)](https://github.com/VacuumORG)
+
   
 
 
