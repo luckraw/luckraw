@@ -13,15 +13,15 @@
 
 - ## Linguagens
   
-[![My Skills](https://skillicons.dev/icons?i=java,php,python,cpp,nodejs,ts,cs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,cs,python,cpp,nodejs,ts,php)](https://skillicons.dev)
 
 - ## Frameworks 
 
-[![My Skills](https://skillicons.dev/icons?i=spring,maven,hibernate,gradle,laravel,express,nestjs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=spring,maven,hibernate,gradle,dotnet,laravel,express,nestjs)](https://skillicons.dev)
 
 - ## Ferramentas
   
-[![My Skills](https://skillicons.dev/icons?i=git,docker,mysql,postgres,mongodb,idea,vscode,postman)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,docker,mysql,postgres,mongodb,postman)](https://skillicons.dev)
 
 - ## Sociais
 
