@@ -4,6 +4,7 @@
 
 > Olá, meu nome é Lucas e sou um desenvolvedor back-end apaixonado por tecnologia, cybersecurity e IA.
 - Tenho conhecimento com as linguagens de programação `Java`, `C#` e `Python`.
+- Atualmente estudando `Angular` para completar minha formação.
 
 
 <div align="center">  
