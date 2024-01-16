@@ -24,9 +24,6 @@
   
 [![My Skills](https://skillicons.dev/icons?i=git,docker,mysql,postgres,mongodb,postman)](https://skillicons.dev)
 
-- ## Sociais
-
-[![My Skills](https://skillicons.dev/icons?i=linkedin,twitter,discord,github)](https://skillicons.dev)
 
 
   
