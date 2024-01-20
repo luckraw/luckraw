@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=8b25be&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Lucas;Seja+bem-vindo!+:%29)](https://git.io/typing-svg)
 
-> Olá, meu nome é Lucas e sou um desenvolvedor Back-End apaixonado por tecnologia.
+> Olá, meu nome é Lucas e sou um desenvolvedor Backend apaixonado por tecnologia.
 - Tenho conhecimento com as linguagens de programação `Java` e `C#`.
 - Atualmente estudando `Angular` para completar minha formação.
 
