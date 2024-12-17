@@ -14,7 +14,7 @@
 
 - ## Linguagens
   
-[![My Skills](https://skillicons.dev/icons?i=java,cs,cpp,nodejs,ts,js)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,cs,nodejs,ts,js)](https://skillicons.dev)
 
 - ## Frameworks 
 
