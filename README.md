@@ -18,7 +18,7 @@
 
 - ## Frameworks 
 
-[![My Skills](https://skillicons.dev/icons?i=spring,maven,hibernate,gradle,dotnet,angular)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=spring,maven,hibernate,dotnet,angular)](https://skillicons.dev)
 
 - ## Ferramentas
   
