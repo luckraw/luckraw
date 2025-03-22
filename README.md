@@ -2,8 +2,8 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=8b25be&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Lucas;Seja+bem-vindo!+:%29)](https://git.io/typing-svg)
 
-> Olá, meu nome é Lucas e sou um Desenvolvedor Backend apaixonado por tecnologia.
-- Tenho conhecimento com as linguagens de programação `Java` e `C#`.
+> Olá, meu nome é Lucas e sou um Desenvolvedor Backend apaixonado por tecnologia e entusiasta em cybersecurity e IA.
+- Tenho conhecimento com as linguagens de programação `Java`, `JavaScript`, `PHP` e `C#`.
 - Atualmente estudando `Angular` para completar minha formação.
 
 
@@ -14,11 +14,11 @@
 
 - ## Linguagens
   
-[![My Skills](https://skillicons.dev/icons?i=java,cs,nodejs,ts,js)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,cs,nodejs,ts,js,php)](https://skillicons.dev)
 
 - ## Frameworks 
 
-[![My Skills](https://skillicons.dev/icons?i=spring,maven,hibernate,dotnet,angular)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=spring,maven,hibernate,dotnet,angular,laravel)](https://skillicons.dev)
 
 - ## Ferramentas
   
